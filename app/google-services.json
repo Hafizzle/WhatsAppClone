@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "941868893083",
+    "firebase_url": "https://whatsappclone-69b93.firebaseio.com",
+    "project_id": "whatsappclone-69b93",
+    "storage_bucket": "whatsappclone-69b93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941868893083:android:5b6ce95081cf841f",
+        "android_client_info": {
+          "package_name": "hafizzle.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941868893083-cc0i64q3dpjmfmccppkh1ho91kcm6auo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hafizzle.com",
+            "certificate_hash": "e38f61c550f3614f25a6039e081bef0d9a8a3cfb"
+          }
+        },
+        {
+          "client_id": "941868893083-hd71ddu0j4vq3hhdsb539vftfsmcjnc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG0S9QrVKCPhRPIoz0SayygBOuyV84LsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941868893083-hd71ddu0j4vq3hhdsb539vftfsmcjnc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
